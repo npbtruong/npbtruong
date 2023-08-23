@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Vuejs, Laravrel PHP,HTML CSS JS, PYTHON**
+- 🌱 I’m currently learning **Vuejs, PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/)
 
-- 💬 Ask me about **Laravel,HTML CSS JS**
+- 💬 Ask me about **Laravel,PHP, HTML CSS JS, Bootsrap**
 
 - 📫 How to reach me **npbtruong@gmail.com**
 
