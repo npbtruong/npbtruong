@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/)
 
-- 💬 Ask me about **👑Laravel👑,PHP, HTML CSS JS, Bootsrap**
+- 💬 Ask me about **👑Laravel👑,Drupal ,PHP, HTML CSS JS, Bootsrap**
 
 - 📫 How to reach me **npbtruong@gmail.com**
 
