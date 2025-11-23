@@ -10,7 +10,7 @@ I'm currently working as a Backend Developer at Hotel Link, where I focus on bui
 
 I’m passionate about backend architecture, performance optimization, and writing clean, maintainable code. For me, programming isn’t just about making things work — it’s about crafting solutions that are elegant, robust, and meaningful.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/recent-activity/videos/)
 
 - 💬 Ask me about **👑Laravel👑,Drupal ,PHP, HTML CSS JS, Bootsrap**
 
