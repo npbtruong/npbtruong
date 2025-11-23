@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from HCM City</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-👋 <h3 >About Me</h3>
+<h3 >👋 About Me</h3>
 
 Hi! I'm Truong, a former student of Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Computer Engineering Technology.
 I'm currently working as a Backend Developer at Hotel Link, where I focus on building scalable, efficient, and reliable systems.
