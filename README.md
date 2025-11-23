@@ -6,9 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npbtruong&label=Profile%20views&color=0e75b6&style=flat" alt="npbtruong" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+👋 About Me
 
-- 🌱 I’m currently learning **Vuejs, PYTHON**
+Hi! I'm Truong, a former student of Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Computer Engineering Technology.
+I'm currently working as a Backend Developer at Hotel Link, where I focus on building scalable, efficient, and reliable systems.
+
+I’m passionate about backend architecture, performance optimization, and writing clean, maintainable code. For me, programming isn’t just about making things work — it’s about crafting solutions that are elegant, robust, and meaningful.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/)
 
