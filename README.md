@@ -3,9 +3,6 @@
 <h3 align="center">A passionate fullstack developer from HCM City</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=npbtruong&label=Profile%20views&color=0e75b6&style=flat" alt="npbtruong" /> </p>
-
 👋 About Me
 
 Hi! I'm Truong, a former student of Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Computer Engineering Technology.
