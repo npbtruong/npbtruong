@@ -6,7 +6,7 @@
 <h3 >👋 About Me</h3>
 
 Hi! I'm Truong, a former student of Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Computer Engineering Technology.
-I'm currently working as a Backend Developer at Hotel Link, where I focus on building scalable, efficient, and reliable systems.
+I'm currently working as a Backend Developer at HOTEL LINK, where I focus on building scalable, efficient, and reliable systems.
 
 I’m passionate about backend architecture, performance optimization, and writing clean, maintainable code. For me, programming isn’t just about making things work — it’s about crafting solutions that are elegant, robust, and meaningful.
 
