@@ -10,7 +10,7 @@ I'm currently working as a Backend Developer at HOTEL LINK, where I focus on bui
 
 I’m passionate about backend architecture, performance optimization, and writing clean, maintainable code. For me, programming isn’t just about making things work — it’s about crafting solutions that are elegant, robust, and meaningful.
 
-- 👨‍💻 All of my project DEMOs are available on LINKEDIN [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/recent-activity/videos/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="npb truong" height="5" width="10" />
+- 👨‍💻 All of my project DEMOs are available on LINKEDIN [https://www.linkedin.com/in/npb-truong-2b79a2247/](https://www.linkedin.com/in/npb-truong-2b79a2247/recent-activity/videos/) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="npb truong" height="15" width="20" />
 
 - 💬 Ask me about **👑Laravel👑,Drupal ,PHP, HTML CSS JS, Bootsrap**
 
