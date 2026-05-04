@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm NPBTRUONG</h1>
 <h3 align="center">A passionate fullstack developer from HCM City</h3>
 
@@ -28,5 +27,5 @@ I’m passionate about backend architecture, performance optimization, and writi
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=npbtruong&show_icons=true&locale=en" alt="npbtruong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=npbtruong&" alt="npbtruong" /></p>d
---!>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=npbtruong&" alt="npbtruong" /></p>
+-->
